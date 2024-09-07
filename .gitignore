@@ -3,3 +3,5 @@
 **/__pycache__/
 venv-py38/
 data/
+venv/
+**/.DS_Store
