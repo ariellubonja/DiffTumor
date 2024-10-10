@@ -8,3 +8,4 @@ venv/
 **/**.nii.gz
 AutoencoderModel.ckpt
 **/**.tsv
+old-data/*
